@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Stoke:wght@300;400&display=swap');
+
+:root {
+  --font-family: 'Stoke', sans-serif;
+
+  --gradient-navbar: linear-gradient(90deg, #4233FF, #FB6D6D);
+  --gradient-content: linear-gradient(90deg, #4233FF, #FF4B4B);
+
+
+  --color-footer: #1B1B36;
+}
