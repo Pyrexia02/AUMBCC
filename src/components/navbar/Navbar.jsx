@@ -10,11 +10,11 @@ const navbar = () => {
   return (
     <div className='navbar'>
       <div className='navbar-start_logo'>
-        <img src={AIESEC_logo} alt="AIESEC Logo" />
-        <img src={YSF_logo} alt="Youth Speak Forum Logo" />
+        <img src={AIESEC_logo} alt="AIESEC Logo"/>
+        <img src={YSF_logo} alt="Youth Speak Forum Logo"/>
       </div>
       <div className='navbar-text'>
-        <span>AIESEC IN UNIVERSITI MALAYA</span>
+        <span>AIESEC IN UM</span>
         <br></br>
         <span>Business Case Challenge</span>
         <br></br>

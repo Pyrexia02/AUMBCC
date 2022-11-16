@@ -1,6 +1,6 @@
 .navbar{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     background: var(--gradient-navbar);
 }
@@ -13,8 +13,8 @@
 }
 
 .navbar-start_logo img{
-    max-width: 200px;
-    margin: 10px;
+    margin: 0px 10px;
+    height: 80px;
 }
 
 .navbar-end_logo {
